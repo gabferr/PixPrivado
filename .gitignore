@@ -1,0 +1,8 @@
+# Arquivos de imagem
+*.jpg
+*.webp
+*.png
+*.avif
+
+# Arquivo de variáveis de ambiente
+.env
